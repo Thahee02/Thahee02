@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hthahee" target="blank"><img src="https://img.shields.io/twitter/follow/hthahee?logo=twitter&style=for-the-badge" alt="hthahee" /></a> </p>
 
-- 🌱 I’m currently learning **Angular and React**
+- 🌱 I’m currently learning **NodeJs and ExpressJs**
 
 - 👨‍💻 All of my projects are available at [https://thahee02.github.io/Thahee-Portfolio/](https://thahee02.github.io/Thahee-Portfolio/)
 
