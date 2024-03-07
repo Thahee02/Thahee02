@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Majeed Mohamed Hathil Thahee</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thahee02&label=Profile%20views&color=0e75b6&style=flat" alt="thahee02" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **developerthahee@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_4aJNpcIc-6OtPU5WVLmg_e-0jDR_kPC/view](https://drive.google.com/file/d/1_4aJNpcIc-6OtPU5WVLmg_e-0jDR_kPC/view)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/16SBOKZcoN9B4PfO7cgnd6tlgAR99dA_K/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
