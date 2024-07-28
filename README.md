@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **developerthahee@gmail.com**
 
-- 📄 Know about my experiences [My CV]([https://drive.google.com/file/d/16SBOKZcoN9B4PfO7cgnd6tlgAR99dA_K/view?usp=sharing](https://drive.google.com/file/d/1t6adKe-YmdBmpadQmRgGVDuwodgfz6Ky/view?usp=sharing))
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1t6adKe-YmdBmpadQmRgGVDuwodgfz6Ky/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
