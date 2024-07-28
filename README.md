@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **NodeJs and ExpressJs**
 
-- 👨‍💻 All of my projects are available at [https://thahee02.github.io/Thahee-Portfolio/](https://thahee02.github.io/Thahee-Portfolio/)
+- 👨‍💻 All of my projects are available at [Thahee Portfolio](https://thahee.vercel.app/)
 
 - 📫 How to reach me **developerthahee@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/16SBOKZcoN9B4PfO7cgnd6tlgAR99dA_K/view?usp=sharing)
+- 📄 Know about my experiences [My CV]([https://drive.google.com/file/d/16SBOKZcoN9B4PfO7cgnd6tlgAR99dA_K/view?usp=sharing](https://drive.google.com/file/d/1t6adKe-YmdBmpadQmRgGVDuwodgfz6Ky/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
