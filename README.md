@@ -68,4 +68,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thahee02&" alt="thahee02" /></p>
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68f8bee332ad652bc8b3fecd?variant=dark&roadmaps=python%2Cjavascript%2Cjava%2Cdjango" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68f8bee332ad652bc8b3fecd?variant=dark&roadmaps=python%2Cjavascript%2Cjava%2Cdjango" alt="roadmap.sh"/></a>
